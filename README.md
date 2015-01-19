@@ -1,18 +1,22 @@
-Eligibility
-Each team must belong to an accredited university or college in the United States of America or Canada.
-List of accredited schools in USA: Download
-List of accredited schools in Canada: CIC AUCC
-Online universities are ineligible
-Each team must contain a minimum of 5 and a maximum of 7 students who all attend the same university.
-Players must be enrolled as a full time student in the Fall 2014 or Spring 2015 semester.
-Players must be enrolled in classes in both Fall 2014 and Spring 2015 semesters
-Players will be required to provide proof of enrollment upon request by tournament administration.
-Players must be registered with valid names, school emails, and summoner names.
-Tournament Format
-HOUSE RULES
-Schedule
-HOUSE RULES
-Game Rules
+# 1. Eligibility
+1. Each team must belong to an accredited university or college in the United States of America or Canada.
+  1. List of accredited schools in USA: [Download ZIP](http://www.google.com/url?q=http%3A%2F%2Fope.ed.gov%2Faccreditation%2FdataFiles%2FAccreditation_2013_12.zip&sa=D&sntz=1&usg=AFQjCNErhh1CW5x1gGV3xqkT6iGky0OEmQ)
+  2. List of accredited schools in Canada: [CIC](http://www.collegesinstitutes.ca/our-members/list-of-members/) | [AUCC](http://www.aucc.ca/about-us/member-universities)
+2. Online universities are ineligible
+3. Each team must contain a minimum of 5 and a maximum of 7 students who all attend the same university.
+4. Players must be enrolled as a full time student in the Fall 2014 or Spring 2015 semester.
+5. Players must be enrolled in classes in both Fall 2014 and Spring 2015 semesters
+6. Players will be required to provide proof of enrollment upon request by tournament administration.
+7. Players must be registered with valid names, school emails, and summoner names.
+
+# 2. Tournament Format
+**HOUSE RULES**
+
+# 3. Schedule
+
+**HOUSE RULES**
+
+# 4. Game Rules
 Punctuality of Players
 All players will be expected to be ready to join the game lobby and start play within a maximum of fifteen(15) minutes following the start of the round.  Readiness includes, but is not limited to, completed client patching, configuration of in-game settings, and completed runes and mastery pages.
 Matches must be played at their scheduled times.  Teams may not request a reschedule at any point during the qualifier.
@@ -40,7 +44,8 @@ Player Equipment Responsibility. All players are responsible for ensuring the pe
 Restrictions on Gameplay Elements
 Restrictions may be added at any time before or during a match if there are known bugs with any items, champions, skins, runes, masteries, or Summoner spells, or for any other reason as determined at the discretion of tournament officials
 3.11.2. Champions who have not been available on the live service for more than 3 weeks will be automatically restricted.
-Unfair Play & Penalties
+
+# 5. Unfair Play & Penalties
 Unfair Play. The following actions will be considered unfair play and will be subject to penalties at organizer’s discretion. 
 The use of any cheat program and/or map hack program
 An intentional disconnection without a proper and explicitly stated reason
@@ -55,6 +60,6 @@ Loss of Side Selection
 Loss of Champion Ban
 Game Forfeiture
 Tournament Disqualification
-Spirit of the Rules
+# 6. Spirit of the Rules
 Finality of Decisions. All decisions regarding the interpretation of these rules, player eligibility, scheduling and staging of the tournament, and penalties for misconduct, lie solely with IvyLoL and assigned tournament officials, the decisions of which are final.
 Rule Changes. These rules may be amended, modified, or supplemented in order to ensure fair play and the integrity of the competition
