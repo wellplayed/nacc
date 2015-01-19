@@ -17,24 +17,26 @@
 **HOUSE RULES**
 
 # 4. Game Rules
-Punctuality of Players
-All players will be expected to be ready to join the game lobby and start play within a maximum of fifteen(15) minutes following the start of the round.  Readiness includes, but is not limited to, completed client patching, configuration of in-game settings, and completed runes and mastery pages.
-Matches must be played at their scheduled times.  Teams may not request a reschedule at any point during the qualifier.
-Teams that are not ready within fifteen (15) minutes following the start of the round will automatically lose the first game of the best of three (3).  Teams that are more than twenty five (25) minutes late forfeit the match.
-Choice of Side
-HOUSE RULES
-Game of Record
-Game of record (“GOR”) refers to a game where all ten players have loaded and which has progressed to a point of meaningful interaction between opposing teams.  Once a game has attained GOR status, the period ends in which incidental restarts may be permitted and a game will be considered as “official” from that point onward.  After the establishment of GOR, game restarts will be allowed only under limited conditions (see Section 4.5) Examples of conditions which establish GOR:
-A player has obtained a creep score greater than zero (0).
-A player has died to a player, turret, minion or monster.
-Game timer reaches two (2) minutes.
-Stoppage of Play
-Player Pause. Players may only pause a match immediately following any of the events described below.
-Unintentional disconnection
-Hardware or software malfunction
-Player illness
-Pause Allowance. Teams may pause the game for a maximum of fifteen (15) minutes over the course of a single game.  Pausing beyond allowance time will be considered unfair play and penalties will be applied at the discretion of tournament officials.
-Game Restart
+  1. Punctuality of Players
+    1. All players will be expected to be ready to join the game lobby and start play within a maximum of fifteen(15) minutes following the start of the round.  Readiness includes, but is not limited to, completed client patching, configuration of in-game settings, and completed runes and mastery pages.
+    2. Matches must be played at their scheduled times.  Teams may not request a reschedule at any point during the qualifier.
+    3. Teams that are not ready within fifteen (15) minutes following the start of the round will automatically lose the first game of the best of three (3).  Teams that are more than twenty five (25) minutes late forfeit the match.
+
+  2. Choice of Side
+  HOUSE RULES
+
+  3. Game of Record
+    1. Game of record (“GOR”) refers to a game where all ten players have loaded and which has progressed to a point of meaningful interaction between opposing teams.  Once a game has attained GOR status, the period ends in which incidental restarts may be permitted and a game will be considered as “official” from that point onward.  After the establishment of GOR, game restarts will be allowed only under limited conditions (see Section 4.5) Examples of conditions which establish GOR:
+      1. A player has obtained a creep score greater than zero (0).
+      2. A player has died to a player, turret, minion or monster.
+      3. Game timer reaches two (2) minutes.
+  4. Stoppage of Play
+    1. Player Pause. Players may only pause a match immediately following any of the events described below.
+      1. Unintentional disconnection
+      2. Hardware or software malfunction
+      3. Player illness
+    2. Pause Allowance. Teams may pause the game for a maximum of fifteen (15) minutes over the course of a single game.  Pausing beyond allowance time will be considered unfair play and penalties will be applied at the discretion of tournament officials.
+  5. Game Restart
 Restarts Before GOR
 A player’s runes or mastery settings have not applied correctly between the game lobby and match in a way that cannot be adjusted within the game, then a game may be restarted.
 Restarts After GOR
