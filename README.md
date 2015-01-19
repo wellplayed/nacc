@@ -66,7 +66,7 @@
       3. Loss of Champion Ban
       4. Game Forfeiture
       5. Tournament Disqualification
-      6. 
+
 # 6. Spirit of the Rules
   1. Finality of Decisions. 
     1. All decisions regarding the interpretation of these rules, player eligibility, scheduling and staging of the tournament, and penalties for misconduct, lie solely with IvyLoL and assigned tournament officials, the decisions of which are final.
