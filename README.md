@@ -37,31 +37,38 @@
       3. Player illness
     2. Pause Allowance. Teams may pause the game for a maximum of fifteen (15) minutes over the course of a single game.  Pausing beyond allowance time will be considered unfair play and penalties will be applied at the discretion of tournament officials.
   5. Game Restart
-Restarts Before GOR
-A player’s runes or mastery settings have not applied correctly between the game lobby and match in a way that cannot be adjusted within the game, then a game may be restarted.
-Restarts After GOR
-If a game experiences a critical bug at any point during the match which significantly alters game stats or gameplay mechanics, then a game may be restarted.
-In the event of a restart, players are required to keep the same picks, bans, and summoner spells.
-Player Equipment Responsibility. All players are responsible for ensuring the performance of their chosen setup, including computer hardware and peripherals, internet connection, and power. A problem with player equipment is not an acceptable reason for lateness or pausing beyond a team’s allowance, regardless of the root cause of the problem.
-Restrictions on Gameplay Elements
-Restrictions may be added at any time before or during a match if there are known bugs with any items, champions, skins, runes, masteries, or Summoner spells, or for any other reason as determined at the discretion of tournament officials
-3.11.2. Champions who have not been available on the live service for more than 3 weeks will be automatically restricted.
+    1. **Restarts Before GOR**
+      1. A player’s runes or mastery settings have not applied correctly between the game lobby and match in a way that cannot be adjusted within the game, then a game may be restarted.
+    2. **Restarts After GOR**
+      1. If a game experiences a critical bug at any point during the match which significantly alters game stats or gameplay mechanics, then a game may be restarted.
+    3. In the event of a restart, players are required to keep the same picks, bans, and summoner spells.
+
+  6. Player Equipment Responsibility. 
+    1. All players are responsible for ensuring the performance of their chosen setup, including computer hardware and peripherals, internet connection, and power. A problem with player equipment is not an acceptable reason for lateness or pausing beyond a team’s allowance, regardless of the root cause of the problem.
+
+  7. Restrictions on Gameplay Elements
+    1. Restrictions may be added at any time before or during a match if there are known bugs with any items, champions, skins, runes, masteries, or Summoner spells, or for any other reason as determined at the discretion of tournament officials
+    2. Champions who have not been available on the live service for more than 3 weeks will be automatically restricted.
 
 # 5. Unfair Play & Penalties
-Unfair Play. The following actions will be considered unfair play and will be subject to penalties at organizer’s discretion. 
-The use of any cheat program and/or map hack program
-An intentional disconnection without a proper and explicitly stated reason
-Unsportsmanlike conduct or disruptive behavior such as inappropriate and/or unprofessional actions directed towards another player or tournament official
-The intentional use of a game bug or error to obtain an unfair advantage
-The use of an ineligible player (e.g. "ringing")
-Sharing accounts between team members or nonmembers.
-Unauthorized obstructions to match scheduling (e.g. lateness)
-Penalties for Unfair Play. Upon discovery of any player committing any violations regarded as unfair play, the tournament director may issue any or all penalties, at his/her sole discretion.
-Verbal Warning
-Loss of Side Selection
-Loss of Champion Ban
-Game Forfeiture
-Tournament Disqualification
+  1. Unfair Play. The following actions will be considered unfair play and will be subject to penalties at organizer’s discretion. 
+    1. The use of any cheat program and/or map hack program
+    2. An intentional disconnection without a proper and explicitly stated reason
+    3. Unsportsmanlike conduct or disruptive behavior such as inappropriate and/or unprofessional actions directed towards another player or tournament official
+    4. The intentional use of a game bug or error to obtain an unfair advantage
+    5. The use of an ineligible player (e.g. "ringing")
+    6. Sharing accounts between team members or nonmembers.
+    7. Unauthorized obstructions to match scheduling (e.g. lateness)
+  2. Penalties for Unfair Play. 
+    1. Upon discovery of any player committing any violations regarded as unfair play, the tournament director may issue any or all penalties, at his/her sole discretion.
+      1. Verbal Warning
+      2. Loss of Side Selection
+      3. Loss of Champion Ban
+      4. Game Forfeiture
+      5. Tournament Disqualification
+      6. 
 # 6. Spirit of the Rules
-Finality of Decisions. All decisions regarding the interpretation of these rules, player eligibility, scheduling and staging of the tournament, and penalties for misconduct, lie solely with IvyLoL and assigned tournament officials, the decisions of which are final.
-Rule Changes. These rules may be amended, modified, or supplemented in order to ensure fair play and the integrity of the competition
+  1. Finality of Decisions. 
+    1. All decisions regarding the interpretation of these rules, player eligibility, scheduling and staging of the tournament, and penalties for misconduct, lie solely with IvyLoL and assigned tournament officials, the decisions of which are final.
+  2.Rule Changes. 
+    1. These rules may be amended, modified, or supplemented in order to ensure fair play and the integrity of the competition
