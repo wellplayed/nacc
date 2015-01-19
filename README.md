@@ -70,5 +70,5 @@
 # 6. Spirit of the Rules
   1. Finality of Decisions. 
     1. All decisions regarding the interpretation of these rules, player eligibility, scheduling and staging of the tournament, and penalties for misconduct, lie solely with IvyLoL and assigned tournament officials, the decisions of which are final.
-  2.Rule Changes. 
+  2. Rule Changes. 
     1. These rules may be amended, modified, or supplemented in order to ensure fair play and the integrity of the competition
