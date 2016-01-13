@@ -30,7 +30,7 @@ Players may not have any current disciplinary suspension from Riot-affiliated co
 Players must have a League of Legends account in good standing and eligible for ranked games in order to compete.  This same account must be used for the duration of the competition.  Players may not change their Summoner name without permission during the competition.
 
 #### 1.2.5 Required Positions.
-All teams must be comprised of 6 eligible players and 1 designated team manager.  See Section 3.3 for information on the Team Manager role.
+All teams must be comprised of 6 eligible players and 1 designated team manager.  See [Section 3.3](#33-team-manager) for information on the Team Manager role.
 
 ## 1.3 No Riot Employees
 Team Members may not be employees of Riot Games Inc. (“RGI”) or League of Legends Championship Series LLC or any of their respective affiliates at the start of or at any point during the NACC regular season or playoffs. “Affiliate” is defined as any person or other entity which own or controls, is under the ownership or control of, or is under common ownership or control with, an Owner. “Control” shall mean the power, through any means, to determine the policies or management of an entity, whether through the power to elect, appoint or approve, directly or indirectly, the directors, officers, managers or trustees of such entity or otherwise.
